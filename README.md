@@ -69,5 +69,8 @@ Assignment for  AI Engineer Intern
 - **Cross-Document Insights**: Queries are processed across all uploaded documents, making multi-document analysis seamless.  
 
 ---
+![Screenshot 2025-01-07 174435](https://github.com/user-attachments/assets/dead1221-0c21-464d-a319-8449555c20b5)
+![Screenshot 2025-01-07 174223](https://github.com/user-attachments/assets/9e3be0fa-af91-4f7e-ad46-b2f0bbe53d87)
+![Screenshot 2025-01-07 174423](https://github.com/user-attachments/assets/e8713734-a341-4302-9632-bf8a1b89a882)
+![Screenshot 2025-01-07 174435](https://github.com/user-attachments/assets/a036df9f-8b1c-462b-a2ed-2c9a4cc48413)
 
-Feel free to contribute or suggest improvements! 😊
